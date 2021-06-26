@@ -1,0 +1,2 @@
+# Algo-python
+An implementation of Data Structures and Algorithms in Python. It includes code implementation on Searching Algorithms, Sorting Algorithms, Trees, Graphs and Priority Queues. The code is written on Jupyter Notebooks and so has written explanations in between to understand what is happening. I did this work as an exercise to better my problem-solving skills and create quality software. Feel free to contribute so that it can possibly be a great repo where others learn how to implement data structures and algorithms in Python
